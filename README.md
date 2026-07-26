@@ -136,6 +136,8 @@ Olist_Ecommerce_Sales_Analysis/
 ├── data/
 │   └── *.csv
 │
+├── .gitignore
+│
 └── README.md
 ```
 
